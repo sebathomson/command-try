@@ -1,0 +1,4 @@
+my_command:
+    resource: "@MyCommandBundle/Resources/config/routing.yml"
+    prefix:   /
+
